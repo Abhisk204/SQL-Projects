@@ -108,8 +108,6 @@ when SoldasVacant = 'N' then 'No'
 else SoldasVacant
 end
 
---Remove Duplicates
---Using window functions and cte
 
 --Delete unused columns
 Alter table NashvilleHousing
